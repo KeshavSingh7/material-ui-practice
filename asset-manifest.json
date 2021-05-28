@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/material-ui-practice/static/css/main.bab0b925.chunk.css",
+    "main.js": "/material-ui-practice/static/js/main.4a356773.chunk.js",
+    "main.js.map": "/material-ui-practice/static/js/main.4a356773.chunk.js.map",
+    "runtime-main.js": "/material-ui-practice/static/js/runtime-main.83c4521d.js",
+    "runtime-main.js.map": "/material-ui-practice/static/js/runtime-main.83c4521d.js.map",
+    "static/js/2.c2bdf622.chunk.js": "/material-ui-practice/static/js/2.c2bdf622.chunk.js",
+    "static/js/2.c2bdf622.chunk.js.map": "/material-ui-practice/static/js/2.c2bdf622.chunk.js.map",
+    "index.html": "/material-ui-practice/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/material-ui-practice/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.c2bdf622.chunk.js.LICENSE.txt": "/material-ui-practice/static/js/2.c2bdf622.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83c4521d.js",
+    "static/js/2.c2bdf622.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.4a356773.chunk.js"
+  ]
+}

@@ -1,0 +1,2 @@
+(this["webpackJsonpmaterial-ui-practice"]=this["webpackJsonpmaterial-ui-practice"]||[]).push([[0],{11:function(e,t,c){"use strict";c.r(t);var n=c(1),r=c.n(n),i=c(3),a=c.n(i),o=(c(8),c(9),c(0));var s=function(){return Object(o.jsx)(o.Fragment,{children:Object(o.jsx)("h1",{children:"Hello World !"})})};a.a.render(Object(o.jsx)(r.a.StrictMode,{children:Object(o.jsx)(s,{})}),document.getElementById("root"))},8:function(e,t,c){},9:function(e,t,c){}},[[11,1,2]]]);
+//# sourceMappingURL=main.4a356773.chunk.js.map
