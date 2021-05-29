@@ -12,7 +12,7 @@ const useStyles =
             marginTop: '25px'
         },
         cardGrid: {
-            padding: '40px 0'
+            padding: '40px 20px'
         },
         card: {
             height: '100%',
